@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Iphone SE",
+        "price": 20000,
+        "img":"https://www.three.co.uk/static/images/device_pages/MobileVersion/Apple/iPhone_SE_2020/Black/carousel/1.jpg"
+    },
+    {
+        "name":"Oppo Reno F3 ",
+        "price": 7000,
+        "img":"https://mobizil.com/wp-content/uploads/2020/03/OPPO-Reno-3-Pro.jpg"
+    },
+    {
+        "name":"Huawei Nova 7i",
+        "price": 10000,
+        "img":"https://www.gizmochina.com/wp-content/uploads/2020/01/nova-7i.jpg"
+    }
+]

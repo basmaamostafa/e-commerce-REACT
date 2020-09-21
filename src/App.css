@@ -43,6 +43,7 @@
 
 }
 .cart{
+  height: 10vh;
   margin: 5em;
   padding: 2em;
   border: 2px solid #000;

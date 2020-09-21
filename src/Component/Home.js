@@ -11,11 +11,12 @@ export class Home extends React.Component {
             item: this.state.item +1
         });
     };
+    
     render() { 
         return (
             <div className='home'>
                 <ProductList productdata={products} addclick={this.additem} />
-                <Cart item={this.state.item}/>
+                <Cart item={this.state.item}  />
             </div>
         );
     }

@@ -1,17 +1,20 @@
 [
     {
         "name":"Iphone SE",
-        "price": 20000,
-        "img":"https://www.three.co.uk/static/images/device_pages/MobileVersion/Apple/iPhone_SE_2020/Black/carousel/1.jpg"
+        "price": "20.000",
+        "img":"https://www.three.co.uk/static/images/device_pages/MobileVersion/Apple/iPhone_SE_2020/Black/carousel/1.jpg",
+        "des":"iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for."
     },
     {
         "name":"Oppo Reno F3 ",
-        "price": 7000,
-        "img":"https://mobizil.com/wp-content/uploads/2020/03/OPPO-Reno-3-Pro.jpg"
+        "price": "7.000",
+        "img":"https://mobizil.com/wp-content/uploads/2020/03/OPPO-Reno-3-Pro.jpg",
+        "des":"Image result for oppo reno f3 description It is powered by an octa-core MediaTek Helio P95 SoC. It comes with 8GB of RAM and has two storage options, 128GB and 256GB. The Oppo Reno 3 Pro has a 4025mAh battery and also has support for 30W VOOC charging. It runs ColourOS 7 on top of Android 10."
     },
     {
         "name":"Huawei Nova 7i",
-        "price": 10000,
-        "img":"https://www.gizmochina.com/wp-content/uploads/2020/01/nova-7i.jpg"
+        "price": "10.000",
+        "img":"https://www.gizmochina.com/wp-content/uploads/2020/01/nova-7i.jpg",
+        "des":"The world is full of beauty and wonder waiting for you to discover. With 4 rear cameras, HUAWEI nova 7i shoots wider, clearer, and closer than you ever could have imagined. Take cinematic portraits with the bokeh lens, then switch to the macro lens and snap super-detailed nature shots. All while using the same phone. It's like having a professional studio in your pocket."
     }
 ]

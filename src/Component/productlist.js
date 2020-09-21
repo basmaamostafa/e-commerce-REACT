@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import {Productemp} from './Productemp';
 
 export class ProductList extends Component {
-    state = {  }
+    state = {         
+        show:false,
+    };
     render() { 
         return ( 
             <div>
@@ -11,6 +13,7 @@ export class ProductList extends Component {
             {this.props.productdata.map((product) => (
                 <Productemp product={product}
                 addclick={this.props.addclick}
+                show={this.state.show}
                 />
             ))}
             </div>

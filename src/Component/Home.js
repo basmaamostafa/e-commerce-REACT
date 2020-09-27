@@ -15,8 +15,12 @@ export class Home extends React.Component {
     render() { 
         return (
             <div className='home'>
-                <ProductList productdata={products} addclick={this.additem} />
-                <Cart item={this.state.item}  />
+                <div  className='title'>
+                <h1>Products</h1>
+                    <Cart item={this.state.item}  />
+                </div>
+                <ProductList productdata={products}
+                    addclick={this.additem} />
             </div>
         );
     }

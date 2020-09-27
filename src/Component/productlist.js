@@ -8,7 +8,6 @@ export class ProductList extends Component {
     render() { 
         return ( 
             <div>
-            <h1>Products</h1>
             <div className="products">
             {this.props.productdata.map((product) => (
                 <Productemp product={product}
